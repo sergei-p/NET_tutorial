@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sergei Poliakov\\Dev\\tutorials\\NET_tutorial\\DotNetDependencies\\DotNetDependencies.csproj": {}
+    "C:\\Users\\Sergei Poliakov\\Dev\\tutorials\\NET_tutorials\\DotNetDebugging\\DotNetDebugging.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sergei Poliakov\\Dev\\tutorials\\NET_tutorial\\DotNetDependencies\\DotNetDependencies.csproj": {
+    "C:\\Users\\Sergei Poliakov\\Dev\\tutorials\\NET_tutorials\\DotNetDebugging\\DotNetDebugging.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sergei Poliakov\\Dev\\tutorials\\NET_tutorial\\DotNetDependencies\\DotNetDependencies.csproj",
-        "projectName": "DotNetDependencies",
-        "projectPath": "C:\\Users\\Sergei Poliakov\\Dev\\tutorials\\NET_tutorial\\DotNetDependencies\\DotNetDependencies.csproj",
+        "projectUniqueName": "C:\\Users\\Sergei Poliakov\\Dev\\tutorials\\NET_tutorials\\DotNetDebugging\\DotNetDebugging.csproj",
+        "projectName": "DotNetDebugging",
+        "projectPath": "C:\\Users\\Sergei Poliakov\\Dev\\tutorials\\NET_tutorials\\DotNetDebugging\\DotNetDebugging.csproj",
         "packagesPath": "C:\\Users\\Sergei Poliakov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sergei Poliakov\\Dev\\tutorials\\NET_tutorial\\DotNetDependencies\\obj\\",
+        "outputPath": "C:\\Users\\Sergei Poliakov\\Dev\\tutorials\\NET_tutorials\\DotNetDebugging\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sergei Poliakov\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -37,12 +37,6 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "dependencies": {
-            "Humanizer": {
-              "target": "Package",
-              "version": "[2.14.1, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
